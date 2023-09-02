@@ -1,0 +1,21 @@
+h1 {
+    color: white;background-color: black; 
+}
+h3{ 
+color: maroon;
+}
+h4{
+    color: rgb(10, 1, 7);
+}
+#menu-heading { 
+    text-align: center; background-color: black;color: white;
+}
+.bg{
+    background-image: url(2.jpg);
+}
+table ,tr ,td {
+    border: black 2px solid; 
+    padding: 10px; 
+    border-collapse: collapse;
+    text-align: center;
+} 
